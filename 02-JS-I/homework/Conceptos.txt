@@ -1,0 +1,22 @@
+Variables: Son espacios intangibles que hacen parte de la 
+           de la memoria de cualquier sistema y permite grabar
+	   datos
+
+Strings: Cadenas de texto que contienen caracteres (vocales, consonantes, simbolos)
+         y se pueden grabar en memoria permitiendo tener comunicación entre maquina-
+         programador
+
+Funciones (argumentos, return): Caracteristica esencial de los lenguajes de programación 
+				que nos inhibe de repetir lineas de código.
+                                Argumentos: Son parámetros específicos necesarios que 
+                                posee la función para realizar una tarea única.
+				return: Es la respuesta no obligatoria que posee una función; 
+				permite "retornar, devolver, adquirir" un único resultado dependiendo
+				del procedimiento ú objetivo general de la función.
+				 
+Declaraciones if: Sentencias condicionales que permiten elegir dos caminos (Sí-Verdadero ó No-Falso).
+		  Es similar a una función, ya que su decisión ó camino depende de los argumentos ó parametros
+ 		  que le proporcionemos.
+
+Valores booleanos (true, false): Operadores lógicos que surgen de comparar dos argumentos, permiten
+				 elegir opciones según sea su valor
