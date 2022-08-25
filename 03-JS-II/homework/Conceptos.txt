@@ -1,0 +1,12 @@
+for: es una estructura de control que permite iterar o ejecutar una tarea 
+     determinadas veces según una condición.
+
+&&: operador lógico que permite evaluar que dos o más condiciones se cumplan 
+    a la misma vez, si todas se cumplen a la misma vez, se ejecuta una tarea
+
+||: operador lógico que sirve para evaluar una de dos o más condiciones posibles, 
+    si una se cumple, se ejecuta una tarea
+
+!: operador lógico que permite negar un valor booleano o una condición, por ejemplo
+   si tienes una variable booleana o una condición que nos proporciona un valor booleano
+   el valor de este será cambiado al opuesto.
