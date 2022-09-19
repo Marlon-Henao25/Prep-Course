@@ -1,0 +1,4 @@
+Arrays: Es un tipo de variable compuesta que permite almacenar,
+      	numerosos valores de diferentes tipos de datos, que
+	pueden ser accedidos, borrados, editados e incluso
+	añadir uno nuevo.
