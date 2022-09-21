@@ -1,0 +1,22 @@
+Objetos: Tipo de programación que permite optimizar
+	 la forma de ejecutar un algoritmo sin
+	 necesidad de repetir la misma linea de código
+	 cuando queramos agregar una nueva funcionalidad
+	 ó variable.
+
+Propiedades: Son las variables o características que un 
+	     un objeto puede tener.
+
+Métodos: Son las funciones o acciones que un objeto tiene,
+	 ya sea para hacer determinada acción o funcionalidad
+	 multiple.
+
+Bucle for…in: Ésta opción nos permite recorrer los elementos
+	      de un objeto o diccionario, permitiendo obtener
+	      la keyword que es la que se va a estar iterando.
+ 
+Notación de puntos vs notación de corchetes: La notación DOT nos
+proporciona ventajas de tiempo, siempre y cuando los elementos
+internos sean literales, pero por ejemplo, si tenemos un array dentro
+del objeto, en éste nos conviene mas la forma Bracket debido a la facilidad
+de acceder a los elementos del array.
