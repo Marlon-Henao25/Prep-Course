@@ -1,0 +1,6 @@
+prototype: Función de clase que permite añadir al constructor ya creado,
+	   ya sea un nuevo atributo o un nuevo método.
+
+Constructors (de Clases): Los constructores es el estándar inicial con el cual
+			  se inicia una nueva clase; son los valores iniciales
+			  con los cuales se crea esta clase.
