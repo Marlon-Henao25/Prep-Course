@@ -1,0 +1,6 @@
+Funciones Callback: Es una funcionalidad de JavaScript que nos
+		    permite invocar una función con ciertos atributos
+		    ó no, recibiendo ésta como parámetro de otra función
+		    desde la cual queremos invocar. Tener en cuenta que
+		    la función a la cual se hace callback debe recibir sus
+		    propios parámetros.
