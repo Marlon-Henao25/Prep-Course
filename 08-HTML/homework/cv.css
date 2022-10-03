@@ -1,0 +1,88 @@
+html, body, footer{
+    height:100%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+footer{
+    background-color: rgb(34, 33, 33);
+}
+
+.title{
+    display: -webkit-flex;
+    display:         flex;    
+    -webkit-justify-content: center;
+          justify-content: center;
+    padding: 10px 100px 0px;
+    font-size: 50px;
+    font-weight: bold;    
+    text-decoration: underline;
+}
+
+.container {
+    display: -webkit-flex;
+    display: flex;    
+  }
+
+.photo{
+    display: flex;
+    justify-content: center;
+    -webkit-flex: 0.73;
+            flex: 0.73;     
+}
+
+img{    
+    height: 300px;
+    width: 210px;
+    padding-top: 10%;
+    padding-left: 30%;
+    padding-bottom: 10%;    
+}
+
+.name{
+    -webkit-flex: 1.5;
+            flex: 1.5;    
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.Column1 {
+    -webkit-flex: 0.8;
+            flex: 0.8;    
+    padding: 5px 20px 5px;    
+  }
+
+.Column2 {
+    -webkit-flex: 1;
+            flex: 1;
+    padding: 5px 50px 5px;    
+  }
+
+.subtitle{
+    display: -webkit-flex;
+    display:         flex;    
+    -webkit-justify-content: left;
+          justify-content: left;
+    font-weight: bold;
+    font-size:x-large;
+    text-decoration: underline;
+}
+
+.PersonalData{
+    color: rgb(223, 222, 219);
+    padding: 20px 100px 0px;    
+}
+
+.sentence{
+    -webkit-flex: 1;
+            flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    line-height: 20px;
+}

@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2016/10/12/13/32/office-1734485_960_720.jpg');
+}
+
+.tittle{
+    display: -webkit-flex;
+    display:         flex;    
+    -webkit-justify-content: center;
+          justify-content: center;
+}
+
+.divClass2{    
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+          align-items: center;
+    -webkit-justify-content: center;
+          justify-content: center;
+}
+
+div{
+    margin: 0 auto;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(138, 187, 189);
+    border: rgb(0, 0, 0) 5px ridge;
+}
+
+#spanId{
+    font-size: 18px;
+    padding: 50px;
+}
